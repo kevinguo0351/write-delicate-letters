@@ -1,0 +1,4 @@
+interface:
+  display_name: "细腻书信写作"
+  short_description: "把真实细节写成细腻、有余韵、看得出认真准备过的中文书信"
+  default_prompt: "Use $write-delicate-letters to offer three context-fit original style routes, then turn my memories into a delicate, visibly prepared Chinese letter after I choose."
