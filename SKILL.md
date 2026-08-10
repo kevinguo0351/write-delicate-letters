@@ -30,6 +30,12 @@ Determine:
 
 Do not confuse the topic with the emotional job. “写给妈妈” is a topic; “让她知道我记得她那些没有被感谢的小事” is the job.
 
+#### Birthday-series mode
+
+When the user says 生日、周岁、生辰、生日卡片, or refers to a recurring “生日系列,” default to a deeply gentle, attentive, supportive, quietly happy voice. Keep the letter inside the field of love: affection, being cherished, companionship, rest, safety, growth, and uncomplicated blessing. Do not introduce relationship status, conflict, regret, comparison, repayment, or any topic the user did not raise.
+
+If the recipient's age gives a time anchor, use age-appropriate possibilities with soft uncertainty—“也许已经会走几步”“可能会叫爸爸妈妈了”—rather than asserting invented facts. When the user wants a longer card, a useful two-part spine is **if I could return to that birthday / what I want to tell you now**. Let practical care sound like tenderness rather than instruction: “今晚也要好好睡呀” is warmer than a lecture about health. Keep the mood bright and cute without piling up exclamation marks or generic praise.
+
 ### 2. Offer three writing routes when choice is useful
 
 If the user asks to choose a style or has not fixed one, do **not** draft the full letter yet. Use [references/style-library.md](references/style-library.md) to return exactly three compact route cards labeled A/B/C. Each card must combine:
